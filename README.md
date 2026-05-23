@@ -22,6 +22,6 @@
 
 
 # Contribuidores:
-Jean Raposo Soares de Jesus 
-Igor Pinheiro Torres
-Fabio Luiz Cocco Favre da Silva
+* Jean Raposo Soares de Jesus 
+* Igor Pinheiro Torres
+* Fabio Luiz Cocco Favre da Silva
